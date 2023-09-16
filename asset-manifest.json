@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.fac5f18e.css",
-    "main.js": "/Portfolio/static/js/main.a1987d4d.js",
+    "main.css": "/Portfolio/static/css/main.a75d5852.css",
+    "main.js": "/Portfolio/static/js/main.63b6cff8.js",
     "static/media/design 2.png": "/Portfolio/static/media/design 2.573d87a91bcf66e2706a.png",
     "static/media/Y_T 2.png": "/Portfolio/static/media/Y_T 2.60c081d7c7f9077c866b.png",
     "static/media/filmWare 2.png": "/Portfolio/static/media/filmWare 2.e0f8ab55b711f5a9a223.png",
@@ -14,16 +14,16 @@
     "static/media/icons8-linkedin.svg": "/Portfolio/static/media/icons8-linkedin.c304a4148cde039a54532585f4d47b48.svg",
     "static/media/icons8-photoshop.svg": "/Portfolio/static/media/icons8-photoshop.67ff10b1d2305a69ef22448cfc6635d0.svg",
     "static/media/icons8-javascript-96.svg": "/Portfolio/static/media/icons8-javascript-96.19600440c8c62e3de974e2bba991871f.svg",
-    "index.html": "/Portfolio/index.html",
     "static/media/icons8-html-5-96.svg": "/Portfolio/static/media/icons8-html-5-96.b9d2d2f19619a30bb3812a267d0f2cbd.svg",
     "static/media/icons8-material-ui-96.svg": "/Portfolio/static/media/icons8-material-ui-96.8e8d37c6bebf84512bcbbc9c0c4d8a71.svg",
+    "index.html": "/Portfolio/index.html",
     "static/media/icons8-css-logo-96.svg": "/Portfolio/static/media/icons8-css-logo-96.64fa1d1c4801d931c3717be71f6c020e.svg",
     "static/media/icons8-menu.svg": "/Portfolio/static/media/icons8-menu.59c2f3b0f9bbd8da6dba6d406f542a94.svg",
-    "main.fac5f18e.css.map": "/Portfolio/static/css/main.fac5f18e.css.map",
-    "main.a1987d4d.js.map": "/Portfolio/static/js/main.a1987d4d.js.map"
+    "main.a75d5852.css.map": "/Portfolio/static/css/main.a75d5852.css.map",
+    "main.63b6cff8.js.map": "/Portfolio/static/js/main.63b6cff8.js.map"
   },
   "entrypoints": [
-    "static/css/main.fac5f18e.css",
-    "static/js/main.a1987d4d.js"
+    "static/css/main.a75d5852.css",
+    "static/js/main.63b6cff8.js"
   ]
 }
